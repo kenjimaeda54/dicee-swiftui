@@ -11,9 +11,10 @@ struct ContentView: View {
 	
 	let collectionImg: [Int:String] = [1:"DiceOne",2:"DiceTwo",3:"DiceThree",4:"DiceFour",5:"DiceFive",6:"DiceSix"]
 	//struct e imutavel em UIKIT marcamos @mutation aqui a propriedade e State
-	//se não iniciar um valor ira pedir no constrator,então por boa pratica inicia
+	
 	@State var imgOne = "DiceOne";
 	@State var imgTwo =  "DiceOne";
+
 	
 	
 	var body: some View {
