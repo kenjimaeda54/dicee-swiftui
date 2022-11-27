@@ -1,5 +1,5 @@
 # Dicee
-Aplicativo simples,ideia e jogar dois dados aleatoriamente conforme clica em um botao de sortear
+Aplicativo simples, ideia e jogar dois dados aleatoriamente conforme clica em um botão de sortear
 
 ## Feature
 - Em SwiftUI quando deseja espaçar os componentes conforme toda a tela pode usar o Spacer()
